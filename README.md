@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jatinpandit
-- 👀 I’m interested in Web Development and Cyber Security.
+- 👀 I’m interested in Artificial Intelligence, Machine Learning and Cyber Security.
 - 🌱 I’m currently learning C, C++ and Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
