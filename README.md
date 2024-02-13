@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @jatinpandit
-- 👀 I’m interested in Artificial Intelligence, Machine Learning and Cyber Security.
-- 🌱 I’m currently learning C, C++ and Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Web Development, Artificial Intelligence, Machine Learning and Cyber Security.
+- 🌱 I've worked in PHP, Python, Java, C, and much more
 
 <!---
 jatinpandit/jatinpandit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
